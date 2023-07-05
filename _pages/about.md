@@ -24,8 +24,13 @@ social: true  # includes social icons at the bottom of the page
 My research focuses on material discovery through the lens of computer science. 
 I work on optimisation algorithms and machine learning approaches
 to accelerate workflows and help to address global challenges through technology.
+Nice examples of such work are presented in the following 
+<a href="https://www.nature.com/articles/d41586-020-02030-z">video</a>
+and <a href="https://www.nature.com/articles/s41586-023-06071-y">paper</a>.
 My broader theory interests cover algorithmic, complexity and combinatorial questions 
-about discrete structures including graphs, automata, matrices, strings, codes and groups.
+about discrete structures including graphs, automata, matrices, and strings. Take 
+a <a href="https://doi.org/10.1137/16M1094099">look</a>.
+
 
 Previously, I was a theme lead at the 
 <a href="https://www.liverpool.ac.uk/leverhulme-research-centre/"> 
