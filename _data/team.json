@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Duncan Adamson",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2018,
+    "end": 2021,
+    "project": "Algorithmic and combinatorial problems in crystal structure prediction",
+    "primary_supervision": "I. Potapov",
+    "profile_url": "https://duncanadamson.github.io/",
+    "profile_label": "Website"
+  },
+  {
+    "name": "Simona Capponi",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2019,
+    "end": 2023,
+    "project": "Optimisation strategies for the design of experiments in materials discovery",
+    "primary_supervision": "J. Fearnley",
+    "profile_url": "https://uk.linkedin.com/in/simona-capponi-a649b42b",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Antonia Tsili",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2019,
+    "end": 2024,
+    "project": "Geometric optimisation of crystal structures: foundations and algorithmic approaches",
+    "primary_supervision": "P. Krysta",
+    "profile_url": "https://gr.linkedin.com/in/antonia-tsili",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Dumitru Mirauta",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2019,
+    "end": 2025,
+    "project": "A general approach to handling complex basis variation in unmixing problems",
+    "primary_supervision": "Y. Goulermas → V. V. Gusev → D. Bollegala"
+  },
+  {
+    "name": "Siru Zhang",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2019,
+    "end": 2025,
+    "project": "An efficient and effective machine learning framework for compositional data: a study in radioisotope identification",
+    "primary_supervision": "Y. Goulermas → V. V. Gusev",
+    "profile_url": "https://uk.linkedin.com/in/siru-zhang-692ba1172",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Marin Moran",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2019,
+    "end": 2025,
+    "project": "An information oriented approach to materials informatics",
+    "primary_supervision": "M. Rosseinsky, Chemistry Department",
+    "profile_url": "https://uk.linkedin.com/in/marin-moran",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Sam Durdy",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2019,
+    "end": 2023,
+    "project": "Frameworks for utilising computational knowledge: studying, harnessing and improving techniques for materials property prediction",
+    "primary_supervision": "D. Bollegala"
+  },
+  {
+    "name": "Federico Ottomano",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2020,
+    "end": 2024,
+    "project": "Accelerating the discovery of new transparent conducting materials using machine learning",
+    "primary_supervision": "Y. Goulermas → V. V. Gusev",
+    "profile_url": "https://fedeotto.github.io/",
+    "profile_label": "Website"
+  },
+  {
+    "name": "Giovanni de Felice",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2020,
+    "end": 2025,
+    "project": "Spatio-temporal machine learning under sparsity constraints",
+    "primary_supervision": "Y. Goulermas → V. V. Gusev",
+    "profile_url": "https://gdefe.github.io/",
+    "profile_label": "Website"
+  },
+  {
+    "name": "Dannie Ritchie",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2021,
+    "end": 2026,
+    "project": "Probabilistic and Geometric Optimisation for Accelerating Inorganic Materials Discovery",
+    "primary_supervision": "M. Dyer, Chemistry Department"
+  },
+  {
+    "name": "Stavros Gerolymatos",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2021,
+    "end": 2026,
+    "project": "AI-driven optimization and data exploration in crystal structure spaces and beyond",
+    "primary_supervision": "Y. Goulermas → V. V. Gusev",
+    "profile_url": "https://uk.linkedin.com/in/stavros-gerolymatos-48508b19b",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Abdulatif Cisse",
+    "role": "PhD Researcher",
+    "status": "former",
+    "start": 2021,
+    "end": 2026,
+    "project": "From human hypotheses to LLM insights: advancing Bayesian optimisation for autonomous scientific discovery",
+    "primary_supervision": "A. Cooper, Chemistry Department"
+  },
+  {
+    "name": "Zhuoran Yang",
+    "role": "PhD Researcher",
+    "status": "present",
+    "start": 2024,
+    "end": null,
+    "project": "Unmixing methods for X-ray diffraction data",
+    "profile_url": "https://uk.linkedin.com/in/zhuoran-yang-434431233",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Christian Browning",
+    "role": "PhD Researcher",
+    "status": "present",
+    "start": 2025,
+    "end": null,
+    "project": "Guaranteed structure prediction with machine learning",
+    "profile_url": "https://uk.linkedin.com/in/christian-browning-492783281",
+    "profile_label": "LinkedIn"
+  },
+  {
+    "name": "Rio McDade",
+    "role": "PhD Researcher",
+    "status": "present",
+    "start": 2025,
+    "end": null,
+    "project": "Machine learning for material performance predictions across climates"
+  },
+  {
+    "name": "Emma Macmillan",
+    "role": "PhD Researcher",
+    "status": "present",
+    "start": 2025,
+    "end": null,
+    "project": "Human-in-the-loop experimental design",
+    "profile_url": "https://uk.linkedin.com/in/emmamacmillan12",
+    "profile_label": "LinkedIn",
+    "joint_with": [
+      {
+        "name": "A. Cooper",
+        "url": "https://www.liverpool.ac.uk/cooper-group/",
+        "affiliation": "Chemistry Department"
+      },
+      {
+        "name": "Xenofon Evangelopoulos",
+        "url": "https://pcwww.liv.ac.uk/~evangx/"
+      }
+    ]
+  },
+  {
+    "name": "Elena Zamaraeva",
+    "role": "Postdoctoral Research Fellow",
+    "status": "former",
+    "start": 2020,
+    "end": 2025,
+    "project": "Reinforcement learning for crystal structure prediction and optimisation",
+    "profile_url": "https://www.linkedin.com/in/elenazamaraeva/",
+    "profile_label": "LinkedIn",
+    "affiliation": "Leverhulme Research Centre for Functional Materials Design"
+  },
+  {
+    "name": "Esma Kurban",
+    "role": "Postdoctoral Research Fellow",
+    "status": "present",
+    "start": 2025,
+    "end": null,
+    "project": "AI for Materials Discovery",
+    "profile_url": "https://www.linkedin.com/in/esma-kurban/",
+    "profile_label": "LinkedIn",
+    "affiliation": "AIchemy — AI for Chemistry Hub"
+  }
+]

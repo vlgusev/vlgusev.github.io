@@ -1,0 +1,18 @@
+<article class="team-member">
+  <h3>{{ include.member.name | escape }}</h3>
+  <p class="member-meta">{{ include.member.role | escape }}{% if include.member.start %} <span aria-hidden="true">·</span>
+    {{ include.member.start }}{% if include.member.end == nil %}–present{% elsif include.member.end != include.member.start %}–{{ include.member.end }}{% endif %}
+  {% endif %}</p>
+  {% if include.member.project %}
+  <p class="member-project">{{ include.member.project | escape }}</p>
+  {% endif %}
+  {% if include.member.affiliation %}
+  <p class="member-supervision">Part of {% if include.member.affiliation_url %}<a href="{{ include.member.affiliation_url | escape }}">{{ include.member.affiliation | escape }}</a>{% else %}{{ include.member.affiliation | escape }}{% endif %}</p>
+  {% endif %}
+  {% if include.member.joint_with %}
+  <p class="member-supervision">Joint with {% for collaborator in include.member.joint_with %}{% unless forloop.first %}, and {% endunless %}<a href="{{ collaborator.url | escape }}">{{ collaborator.name | escape }}</a>{% if collaborator.affiliation %}, {{ collaborator.affiliation | escape }}{% endif %}{% endfor %}</p>
+  {% endif %}
+  {% if include.member.profile_url %}
+  <a class="member-profile" href="{{ include.member.profile_url | escape }}" aria-label="{{ include.member.name | escape }}: {{ include.member.profile_label | escape }}">{{ include.member.profile_label | escape }}</a>
+  {% endif %}
+</article>

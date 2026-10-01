@@ -26,7 +26,9 @@ layout: default
               {% include figure.html 
               path=profile_image_path 
               class=profile_image_class
-              alt=page.profile.image -%}
+              width="3117"
+              height="3117"
+              alt="Vladimir V. Gusev" -%}
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
@@ -48,19 +50,7 @@ layout: default
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
 
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
-          </div>
-          {%- endif %}
         </article>
 
 </div>

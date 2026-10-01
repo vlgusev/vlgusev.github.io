@@ -1,0 +1,459 @@
+[
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Probabilistic Isolation of Crystalline Inorganic Phases",
+    "citation": "Ritchie D., Gaultois M.W., Gusev V. V., Kurlin V., Rosseinsky M.J., Dyer M.S.: Probabilistic Isolation of Crystalline Inorganic Phases, Journal of Chemical Information and Modeling, 65(24), 13226–13237, 2025 (12 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Assessing data-driven predictions of band gap and electrical conductivity for transparent conducting materials",
+    "citation": "Ottomano F., Goulermas J.Y., Gusev V.V., Savani R., Gaultois M.W., Manning T.D., Hai Lin, Partida Manzanera T., Poole E.G., Dyer M.S., Claridge J.B., Alaria J., Daniels L.M., Varma Su, Rimmer D., Sanderson K., Rosseinsky M.J.: Assessing data-driven predictions of band gap and electrical conductivity for transparent conducting materials, Digital Discovery, 4, 1794–1811, 2025 (18 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Establishing Deep InfoMax as an effective self-supervised learning methodology in materials informatics",
+    "citation": "Moran M., Gaultois M.W., Gusev V.V., Antypov D., Rosseinsky M.J.: Establishing Deep InfoMax as an effective self-supervised learning methodology in materials informatics, Digital Discovery, 4, 790–811, 2025 (12 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Exploration of Chemical Space through Automated Reasoning",
+    "citation": "Clymo J., Collins C. M., Atkinson K., Dyer M. S., Gaultois M. W., Gusev V. V., Rosseinsky M.J., Schewe S.: Exploration of Chemical Space through Automated Reasoning, Angewandte Chemie, 137(6), e202417657, 2025 (11 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Not as simple as we thought: a rigorous examination of data aggregation in materials informatics",
+    "citation": "Ottomano F., De Felice G., Gusev V. V., Sparks T. D.: Not as simple as we thought: a rigorous examination of data aggregation in materials informatics, Digital Discovery, 3, 337–346, 2024 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "First Order Methods for Geometric Optimization of Crystals: Experimental Analysis",
+    "citation": "Tsili A., Dyer M.S., Gusev V.V., Krysta P., Savani R.: First Order Methods for Geometric Optimization of Crystals: Experimental Analysis, Advanced Theory and Simulations, 7(8), 2400124, 2024 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "First Order Methods for Geometric Optimization of Crystals: Theoretical Derivations",
+    "citation": "Tsili A., Dyer M.S., Gusev V.V., Krysta P., Savani R.: First Order Methods for Geometric Optimization of Crystals: Theoretical Derivations, Advanced Theory and Simulations, 7(7), 2400125, 2024 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Statistically Derived Proxy Potentials Accelerate Geometry Optimization of Crystal Structures",
+    "citation": "Antypov D., Collins C. M., Vasylenko A., Gusev V. V., Gaultois M. W., Darling G. R., Dyer M. S., Rosseinsky M. J.: Statistically Derived Proxy Potentials Accelerate Geometry Optimization of Crystal Structures, ChemPhysChem, 25(12), e202400254, 2024 (6 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Optimality guarantees for crystal structure prediction",
+    "citation": "Gusev V. V., Adamson D., Deligkas A., Antypov D., Collins C. M., Krysta P., Potapov I., Darling G. R., Dyer M. S., Spirakis P., Rosseinsky M. J.: Optimality guarantees for crystal structure prediction, Nature, 619, 68–72, 2023 (5 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Reinforcement learning in crystal structure prediction",
+    "citation": "Zamaraeva E., Collins C. M., Antypov D., Gusev V. V., Savani R., Dyer M. S., Darling G. R., Potapov I., Rosseinsky M. J., Spirakis P.: Reinforcement learning in crystal structure prediction, Digital Discovery, 2, 1831–1840, 2023 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Site-net: using global self-attention and real-space supercells to capture long-range interactions in crystal structures",
+    "citation": "Moran M., Gaultois M. W., Gusev V. V., Rosseinsky M. J.: Site-net: using global self-attention and real-space supercells to capture long-range interactions in crystal structures, Digital Discovery, 2, 1297–1310, 2023 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Element selection for functional materials discovery by integrated machine learning of elemental contributions to properties",
+    "citation": "Vasylenko A., Antypov D., Gusev V. V., Gaultois M. W., Dyer M. S., Rosseinsky M. J.: Element selection for functional materials discovery by integrated machine learning of elemental contributions to properties, npj Computational Materials, 9, 164, 2023 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Random projections and kernelised leave one cluster out cross validation: universal baselines and evaluation tools for supervised machine learning of material properties",
+    "citation": "Durdy S., Gaultois M. W., Gusev V. V., Bollegala D., Rosseinsky M. J.: Random projections and kernelised leave one cluster out cross validation: universal baselines and evaluation tools for supervised machine learning of material properties, Digital Discovery, 1, 763–778, 2022 (16 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "On the hardness of energy minimisation for crystal structure prediction",
+    "citation": "Adamson D., Deligkas A., Gusev V. V., Potapov I.: On the hardness of energy minimisation for crystal structure prediction, Fundamenta Informaticae 184(3), 181–203, 2022 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Element selection for crystalline inorganic solid discovery guided by unsupervised machine learning of experimentally explored chemistry",
+    "citation": "Vasylenko A., Gamon J., Duff B.B., Gusev V.V., Daniels L. M., Zanella M., Shin F. J., Sharp P. M., Morscher A., Chen R., Neale A. R., Hardwick L. J., Claridge J. B., Blanc F., Gaultois M. W., Dyer M. S. and Rosseinsky M.J.: Element selection for crystalline inorganic solid discovery guided by unsupervised machine learning of experimentally explored chemistry, Nature Communications, 12, 5561, 2021 (12 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "A mobile robotic chemist",
+    "citation": "Burger B., Maffettone P. M., Gusev V. V., Aitchison C. M., Yang Bai, Xiaoyan Wang, Xiaobo Li, Alston B. M., Buyi Li, Clowes R., Rankin N., Harris B., Sprick R. S. & Cooper A. I: A mobile robotic chemist, Nature, 583, 237–241, 2020 (5 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "On the interplay between Babai and Cerny's conjectures",
+    "citation": "Gonze F., Gusev V. V., Gerencsér B., Jungers R. M., Volkov M. V.: On the interplay between Babai and Cerny's conjectures, Int. J. Found. Comput. Sci., 30(1), 93–114, 2019 (22 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Primitive sets of nonnegative matrices and synchronizing automata",
+    "citation": "Gerencsér B., Gusev V. V., Jungers R.: Primitive sets of nonnegative matrices and synchronizing automata, SIAM J. Matrix Anal. & Appl., 39(1), 83–98, 2018 (16 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Generalized primitivity of labeled digraphs",
+    "citation": "Gusev V. V., Jungers R. M., Pribavkina, E. V.: Generalized primitivity of labeled digraphs, Electronic Notes in Discr. Math., 61, 549–555, 2017 (7 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Approximation of reset thresholds with greedy algorithms",
+    "citation": "Ananichev D.S., Gusev V.V.: Approximation of reset thresholds with greedy algorithms, Fundamenta Informaticae, 145, 221–227, 2016 (7 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Reset thresholds of automata with two cycle lengths",
+    "citation": "Gusev V.V., Pribavkina E.V.: Reset thresholds of automata with two cycle lengths, Int. J. Found. Comput. Sci., 26(7), 953–966, 2015 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Principal ideal languages and synchronizing automata",
+    "citation": "Gusev V.V., Maslennikova M.I., Pribavkina E.V.: Principal ideal languages and synchronizing automata, Fundamenta Informaticae, 132(1), 95–108, 2014 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Lower bounds for the length of reset words in Eulerian automata",
+    "citation": "Gusev V.V.: Lower bounds for the length of reset words in Eulerian automata, Int. J. Found. Comput. Sci., 24(2), 251–262, 2013 (12 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed journal papers",
+    "title": "Primitive digraphs with large exponents and slowly synchronizing automata",
+    "citation": "Ananichev D.S., Gusev V.V., Volkov M.V.: Primitive digraphs with large exponents and slowly synchronizing automata, Zapiski nauchnyh seminarov POMI, 402, 9–39, 2012 [in Russian] and Journal of Mathematical Sciences (US), 192(3), 263–278, 2013 [translation] (16 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures",
+    "citation": "Zamaraeva E., Collins C. M., Darling G. R., Dyer M. S., Bei Peng, Savani R., Antypov D., Gusev V. V., Clymo J., Spirakis P., Rosseinsky M. J.: MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures, NeurIPS (Advances in Neural Information Processing Systems), San Diego, CA, USA; 2025 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Language-Based Bayesian Optimization Research Assistant (BORA)",
+    "citation": "Cisse A., Evangelopoulos X., Gusev V. V., Cooper A. I.: Language-Based Bayesian Optimization Research Assistant (BORA), IJCAI (International Joint Conference on Artificial Intelligence), Montreal, Canada; 2025 (9 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Cluster Exploration Using Informative Manifold Projections",
+    "citation": "Gerolymatos S., Evangelopoulos X., Gusev V. V., Goulermas J.Y.: Cluster Exploration Using Informative Manifold Projections, ECAI (European Conference on Artificial Intelligence), Santiago de Compostela, Spain; 2024 (11 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "HypBO: Accelerating Black-Box Scientific Experiments Using Experts' Hypotheses",
+    "citation": "Cisse A., Evangelopoulos X., Carruthers S., Gusev V. V., Cooper A. I.: HypBO: Accelerating Black-Box Scientific Experiments Using Experts' Hypotheses, IJCAI (International Joint Conference on Artificial Intelligence), Jeju, South Korea; 2024 (9 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Graph-based Virtual Sensing from Sparse and Partial Multivariate Observations",
+    "citation": "De Felice G., Cini A., Zambon D., Gusev V. V., Alippi C.: Graph-based Virtual Sensing from Sparse and Partial Multivariate Observations, ICLR (International Conference on Learning Representations), Vienna, Austria; 2024 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Time Series Kernels based on Nonlinear Vector AutoRegressive Delay Embeddings",
+    "citation": "De Felice G., Goulermas J.Y., Gusev V. V.: Time Series Kernels based on Nonlinear Vector AutoRegressive Delay Embeddings, NeurIPS (Advances in Neural Information Processing Systems), New Orleans, LA, USA; 2023 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "The k-Centre Problem for Classes of Cyclic Words",
+    "citation": "Adamson D., Deligkas A., Gusev V. V., Potapov I.: The k-Centre Problem for Classes of Cyclic Words, SOFSEM (SOFtware SEMinar), Novy Smokovec, Slovakia; Lect. Notes in Comp. Sci., 13878, 385 – 400, 2023 (16 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "The Complexity of Periodic Energy Minimisation",
+    "citation": "Adamson D., Deligkas A., Gusev V. V., Potapov I.: The Complexity of Periodic Energy Minimisation, MFCS (Mathematical Foundations of Computer Science), Vienna, Austria; Leibniz International Proceedings in Informatics (LIPIcs), 241, 8:1–8:15, 2022 (15 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Faster Exploration of Some Temporal Graphs",
+    "citation": "Adamson D., Gusev V.V., Malyshev D. S., Zamaraev, V.: Faster Exploration of Some Temporal Graphs, SAND (Symposium on Algorithmic Foundations of Dynamic Networks), Leibniz International Proceedings in Informatics (LIPIcs), 221, 5:1–5:10, 2022 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Ranking Bracelets in Polynomial Time",
+    "citation": "Adamson D., Deligkas A., Gusev V. V., Potapov I.: Ranking Bracelets in Polynomial Time, CPM (Combinatorial Pattern Matching), Wroclaw, Poland; Leibniz International Proceedings in Informatics (LIPIcs), 191, 4:1–4:17, 2021 (17 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Simple and Fast Methods for Integrating Predicted Data into Bayesian Optimization",
+    "citation": "Capponi S., Cooper A. I., Fearnley J., Gusev V. V.: Simple and Fast Methods for Integrating Predicted Data into Bayesian Optimization, BNAIC, (Benelux Conference on Artificial Intelligence), Belval, Luxembourg; preproceedings, 396–418, 2021 (23 pages)",
+    "limited_peer_review": false,
+    "links": [
+      "https://luis.leiva.name/tmp/bnaic2021_preproceedings.pdf"
+    ]
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "On the Hardness of Energy Minimisation for Crystal Structure Prediction",
+    "citation": "Adamson D., Deligkas A., Gusev V. V., Potapov I.: On the Hardness of Energy Minimisation for Crystal Structure Prediction, SOFSEM (SOFtware SEMinar), Limassol, Cyprus; Lect. Notes in Comp. Sci., 12011, 587–596, 2020 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Crystal Structure Prediction via Oblivious Local Search",
+    "citation": "Antypov D., Deligkas A., Gusev V. V., Rosseinsky M. J., Spirakis P. G., Theofilatos M.: Crystal Structure Prediction via Oblivious Local Search, SEA (Symposium on Experimental Algorithms), Catania, Italy; Leibniz International Proceedings in Informatics (LIPIcs), 160, 21:1–21:14, 2020 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "On Codeword Lengths Guaranteeing Synchronization",
+    "citation": "Gusev V.V., Pribavkina E.V.: On Codeword Lengths Guaranteeing Synchronization, WORDS, Loughborough, UK; Lect. Notes in Comp. Sci., 11682, 207–216, 2019 (10 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Computational Complexity of Synchronization under Regular Constraints",
+    "citation": "Fernau H., Gusev V. V., Hoffmann S., Holzer M., Volkov M. V., Wolf P.: Computational Complexity of Synchronization under Regular Constraints, MFCS (Mathematical Foundations of Computer Science), Aachen, Germany; Leibniz International Proceedings in Informatics (LIPIcs), 138, 63:1–63:14, 2019 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Personal Names Popularity Estimation and Its Application to Record Linkage",
+    "citation": "Zhagorina K., Braslavski P., Gusev V. V.: Personal Names Popularity Estimation and Its Application to Record Linkage, ADBIS (European Conference on Advances in Databases and Information Systems), Budapest, Hungary; Comm. in Comp. and Inf. Sci., 909, 71–79, 2018 (9 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Dynamics of the Independence Number and Automata Synchronization",
+    "citation": "Gusev V. V., Jungers R. M., Prusa D.: Dynamics of the Independence Number and Automata Synchronization, DLT (Developments in Language Theory), Tokyo, Japan; Lect. Notes Comput. Sci., 11088, 379–391, 2018 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Attainable values of reset thresholds",
+    "citation": "Dzyga M., Ferens R., Gusev V. V., Szykula M.: Attainable values of reset thresholds, MFCS (Mathematical Foundations of Computer Science), Aalborg, Denmark; Leibniz International Proceedings in Informatics (LIPIcs), 83, 40:1–40:14, 2017 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "On the interplay between Babai and Cerny's conjectures",
+    "citation": "Gonze F., Gusev V. V., Gerencsér B., Jungers R. M., Volkov M. V.: On the interplay between Babai and Cerny's conjectures, DLT (Developments in Language Theory), Liège, Belgium; Lect. Notes Comput. Sci., 10396, 185–-197, 2017 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "On synchronizing colorings and the eigenvectors of digraphs",
+    "citation": "Gusev V. V., Pribavkina E. V.: On synchronizing colorings and the eigenvectors of digraphs, MFCS (Mathematical Foundations of Computer Science), Kraków, Poland; Leibniz International Proceedings in Informatics (LIPIcs), 58, 48:1–48:14, 2016 (14 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "On the Number of Synchronizing Colorings of Digraphs",
+    "citation": "Gusev V. V., Marek Szykula: On the Number of Synchronizing Colorings of Digraphs, CIAA (Conference on Implementation and Application of Automata), Umeå, Sweden; Lect. Notes Comp. Sci., 9223, 127–139, 2015 (13 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Reset thresholds of automata with two cycle lengths",
+    "citation": "Gusev V. V., Pribavkina E.V.: Reset thresholds of automata with two cycle lengths, CIAA (Conference on Implementation and Application of Automata), Giessen, Germany; Lect. Notes Comp. Sci., 8587, 200–210, 2014 (11 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Synchronizing automata with random inputs",
+    "citation": "Gusev V.V.: Synchronizing automata with random inputs, DLT (Developments in Language Theory), Ekaterinburg, Russia; Lect. Notes Comp. Sci., 8633, 68–75, 2014 (8 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Finitely Generated Ideal Languages and Synchronizing Automata",
+    "citation": "Gusev V.V., Maslennikova M.I., Pribavkina E.V.: Finitely Generated Ideal Languages and Synchronizing Automata, WORDS, Turku, Finland; Lect. Notes in Comp. Sci., 8079, 143–153, 2013 (11 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Synchronizing automata of bounded rank",
+    "citation": "Gusev V. V.: Synchronizing automata of bounded rank, CIAA (Conference on Implementation and Application of Automata), Porto, Portugal; Lect. Notes Comput. Sci., 7381, 171–179, 2012 (9 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "On non-complete sets and Restivo's conjecture",
+    "citation": "Gusev V.V., Pribavkina E.V.: On non-complete sets and Restivo's conjecture, DLT (Developments in Language Theory), Milan, Italy; Lect. Notes Comput. Sci., 6795, 239–250, 2011 (12 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Lower bounds for the length of reset words in Eulerian automata",
+    "citation": "Gusev V.V.: Lower bounds for the length of reset words in Eulerian automata, RP (Reachability Problems), Genoa, Italy; Lect. Notes in Comp. Sci., 6945, 180–190, 2011 (11 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Peer-reviewed conference papers",
+    "title": "Slowly synchronizing automata and digraphs",
+    "citation": "Ananichev D.S., Gusev V.V., Volkov M.V.: Slowly synchronizing automata and digraphs, MFCS (Mathematical Foundations of Computer Science), Brno, Czech Republic; Lect. Notes Comp. Sci., 6281, 55–65, 2010 (11 pages)",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "High throughput decomposition of spectra",
+    "citation": "Mirauta D., Gusev V. V., Gaultois M. W., Rosseinsky M. J.: High throughput decomposition of spectra, AI for Accelerated Materials Design (NeurIPS Workshop), New Orleans, LA, 2023",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Investigating extrapolation and low-data challenges via contrastive learning of chemical compositions",
+    "citation": "Ottomano F., De Felice G., Savani R., Gusev V. V., Rosseinsky M. J.: Investigating extrapolation and low-data challenges via contrastive learning of chemical compositions, AI for Accelerated Materials Design (NeurIPS Workshop, Spotlight), New Orleans, LA, 2023",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Spatio-Temporal Weathering Predictions in the Sparse Data Regime with Gaussian Processes",
+    "citation": "De Felice G., Gusev V. V., Goulermas J. Y., Gaultois M. W., Rosseinsky M. J., Gauvin C. V.: Spatio-Temporal Weathering Predictions in the Sparse Data Regime with Gaussian Processes, AI for Science: Progress and Promises (NeurIPS Workshop), New Orleans, LA, 2022",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Generalized primitivity of labeled digraphs",
+    "citation": "Gusev V. V., Jungers R. M., Pribavkina E. V. Generalized primitivity of labeled digraphs, European Conference on Combinatorics, Graph Theory and Applications (EuroComb), Vienna, Austria, 2017",
+    "limited_peer_review": true,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Around the Road Coloring Theorem",
+    "citation": "Gusev V. V., Pribavkina E. V., Szykula M. Around the Road Coloring Theorem, Fourth Russian Finnish Symposium on Discrete Mathematics (RuFiDim), 2017, Turku, Finland",
+    "limited_peer_review": true,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Primitive sets of nonnegative matrices and synchronizing automata",
+    "citation": "Gusev V. V. Primitive sets of nonnegative matrices and synchronizing automata, Highlights of Logic, Games and Automata (Highlights), Burssels, Belgium, 2016",
+    "limited_peer_review": true,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "On the number of synchronizing colorings of digraphs",
+    "citation": "Gusev V. V. On the number of synchronizing colorings of digraphs, Combinatorics, Automata and Number Theory (CANT), Marseille, France, 2016",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "On the interplay between Babai and Cerny's conjectures",
+    "citation": "Gonze F., Gusev V. V., Gerencsér B., Volkov M. V., Jungers R. M. On the interplay between Babai and Cerny's conjectures, International conference on semigroups and automata (CSA), 2016, Lisbon, Portugal",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Approximation of Reset Thresholds with Greedy Algorithms",
+    "citation": "Ananichev D. S., Gusev V. V. Approximation of Reset Thresholds with Greedy Algorithms, Proceedings of the Third Russian Finnish workshop on discrete mathematics (RuFiDim), 14–20, 2014, Petrozavodsk, Russia",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Enriching company proﬁles using Wikipedia",
+    "citation": "Zhagorina K., Gusev V. V. Enriching company proﬁles using Wikipedia, Russian Summer School in Informational Retrieval (RuSSIR), Kazan, Russia, 2013",
+    "limited_peer_review": true,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Language theoretic approach to synchronizing automata",
+    "citation": "Gusev V. V., Maslennikova M. I., Pribavkina E. V., Rodaro E. Language theoretic approach to synchronizing automata, Proceedings of 14th Italian conference on theoretical computer science (ICTCS), 137 – 141, 2013, Palermo, Italy",
+    "limited_peer_review": false,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Algorithms and complexity aspects in the theory of synchronizing automata",
+    "citation": "Gusev V. V., Maslennikova M. I., Pribavkina E. V. Algorithms and complexity aspects in the theory of synchronizing automata, Proceedings of the international school CSEDays, 64 – 66, 2013, Ekaterinburg, Russia",
+    "limited_peer_review": true,
+    "links": []
+  },
+  {
+    "category": "Abstracts and workshop papers",
+    "title": "Principal ideal languages and synchronizing automata",
+    "citation": "Gusev V. V., Maslennikova M. I., Pribavkina E. V. Principal ideal languages and synchronizing automata Proceedings of the Second Russian Finnish workshop on discrete mathematics, RuFiDim, TUCS, 17, 79 – 83, 2012, Turku, Finland",
+    "limited_peer_review": true,
+    "links": []
+  }
+]

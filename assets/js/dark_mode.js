@@ -1,8 +1,9 @@
-document.addEventListener('DOMContentLoaded', function() {
-    const mode_toggle = document.getElementById("light-toggle");
-
-    mode_toggle.addEventListener("click", function() {
-        toggleTheme(localStorage.getItem("theme"));
-    });
+document.addEventListener("DOMContentLoaded", () => {
+  const button = document.getElementById("light-toggle");
+  if (!button) return;
+  updateThemeControl();
+  button.addEventListener("click", () => {
+    const dark = document.documentElement.getAttribute("data-theme") === "dark";
+    setTheme(dark ? "light" : "dark");
+  });
 });
-

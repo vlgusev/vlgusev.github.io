@@ -7,6 +7,5 @@ _site
 .ruby-version
 .tweet-cache
 .idea
-Gemfile.lock
 vendor
 

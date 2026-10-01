@@ -12,13 +12,31 @@
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
     <!-- Header -->
     {%- include header.html %}
 
     <!-- Content -->
-    <div class="container mt-5">
+    <main id="main-content" class="container mt-5" tabindex="-1">
       {{ content }}
-    </div>
+    </main>
+
+    {% if page.permalink == '/' %}
+    <section class="research-outro" aria-label="Contact and research artwork">
+      {% if page.social %}
+      <div class="social container">
+        <div class="contact-icons">{% include social.html %}</div>
+        {% if site.contact_note != blank %}<div class="contact-note">{{ site.contact_note }}</div>{% endif %}
+      </div>
+      {% endif %}
+      <figure class="research-banner">
+        <a href="{{ '/assets/img/research-landscape.jpg' | relative_url }}" aria-label="View the full research artwork">
+          <img src="{{ '/assets/img/research-landscape.jpg' | relative_url }}" width="3840" height="2160" loading="lazy" alt="A luminous magenta polyhedron suspended above a blue and violet geometric landscape.">
+        </a>
+      </figure>
+    </section>
+    {% endif %}
 
     <!-- Footer -->
     {%- include footer.html %}

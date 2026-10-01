@@ -1,64 +1,32 @@
-// Has to be in the head tag, otherwise a flicker effect will occur.
-
-let toggleTheme = (theme) => {
-  if (theme == "dark") {
-    setTheme("light");
-  } else {
-    setTheme("dark");
-  }
-}
-
-
-let setTheme = (theme) =>  {
-  transTheme();
-  setHighlight(theme);
-
-  if (theme) {
-    document.documentElement.setAttribute("data-theme", theme);
-  }
-  else {
-    document.documentElement.removeAttribute("data-theme");
-  }
-  localStorage.setItem("theme", theme);
-  
-  // Updates the background of medium-zoom overlay.
-  if (typeof medium_zoom !== 'undefined') {
-    medium_zoom.update({
-      background: getComputedStyle(document.documentElement)
-          .getPropertyValue('--global-bg-color') + 'ee',  // + 'ee' for trasparency.
-    })
+// Apply the saved or system theme before rendering to avoid a colour flash.
+const readTheme = () => {
+  try {
+    return localStorage.getItem("theme");
+  } catch (_) {
+    return null;
   }
 };
 
-let setHighlight = (theme) => {
-  if (theme == "dark") {
-    document.getElementById("highlight_theme_light").media = "none";
-    document.getElementById("highlight_theme_dark").media = "";
-  } else {
-    document.getElementById("highlight_theme_dark").media = "none";
-    document.getElementById("highlight_theme_light").media = "";
+const updateThemeControl = () => {
+  const button = document.getElementById("light-toggle");
+  if (!button) return;
+  const dark = document.documentElement.getAttribute("data-theme") === "dark";
+  const label = dark ? "Switch to light mode" : "Switch to dark mode";
+  button.title = label;
+  button.setAttribute("aria-label", label);
+};
+
+const setTheme = (theme) => {
+  document.documentElement.setAttribute("data-theme", theme);
+  try {
+    localStorage.setItem("theme", theme);
+  } catch (_) {
+    // Theme switching still works when browser storage is unavailable.
   }
-}
+  updateThemeControl();
+};
 
-
-let transTheme = () => {
-  document.documentElement.classList.add("transition");
-  window.setTimeout(() => {
-    document.documentElement.classList.remove("transition");
-  }, 500)
-}
-
-
-let initTheme = (theme) => {
-  if (theme == null || theme == 'null') {
-    const userPref = window.matchMedia;
-    if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
-        theme = 'dark';
-    }
-  }
-  
-  setTheme(theme);
-}
-
-
-initTheme(localStorage.getItem("theme"));
+const savedTheme = readTheme();
+const systemTheme = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
+  ? "dark" : "light";
+setTheme(savedTheme === "dark" || savedTheme === "light" ? savedTheme : systemTheme);

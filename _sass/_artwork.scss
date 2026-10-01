@@ -1,0 +1,76 @@
+// Colours and framing drawn from the commissioned research artwork.
+.research-banner {
+  margin: 0;
+  max-width: none;
+  background: #030526;
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(to bottom, var(--global-bg-color), transparent 28%, transparent 78%, var(--global-bg-color));
+  }
+  a { display: block; }
+  img {
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: clamp(240px, 32vw, 460px);
+    object-fit: cover;
+    object-position: center 15%;
+  }
+  a:focus-visible { outline: 3px solid #79d8ef; outline-offset: -5px; }
+}
+.navbar {
+  opacity: 1;
+  border-bottom: 0;
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #316ded, #cb36a3);
+    pointer-events: none;
+  }
+}
+.post-header {
+  margin-bottom: 1.8rem;
+  .post-title { letter-spacing: -0.035em; }
+  .desc { color: var(--global-text-color-light); }
+}
+
+.team-member {
+  background: var(--global-card-bg-color);
+  border-top: 2px solid var(--global-divider-color);
+}
+.profile .address {
+  margin-top: 1rem;
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: var(--global-text-color-light);
+  line-height: 1.6;
+  p { display: block; }
+}
+.profile img { border: 1px solid var(--global-divider-color); }
+::selection { background: #d839a6; color: white; }
+@media (max-width: 575.98px) {
+  .research-banner img { height: auto; aspect-ratio: 16 / 9; }
+  .post-title { font-size: 2.15rem; }
+}
+
+.research-outro {
+  margin-top: 2.5rem;
+  .social { padding-top: 1.5rem; padding-bottom: 0.75rem; }
+}
+.research-outro + footer.sticky-bottom {
+  margin-top: 0 !important;
+  border-top: 0;
+  padding-top: 1.5rem;
+}
+@media (max-width: 575.98px) {
+  .research-outro .contact-icons { font-size: 3rem; }
+}

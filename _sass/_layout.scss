@@ -48,3 +48,66 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+.profile-address { font-size: 0.875rem; }
+.skip-link {
+  position: fixed;
+  top: -5rem;
+  left: 1rem;
+  z-index: 2000;
+  padding: 0.75rem 1rem;
+  color: var(--global-text-color);
+  background: var(--global-bg-color);
+}
+.skip-link:focus { top: 0.5rem; }
+
+.team-section {
+  margin-top: 2.5rem;
+  h2 { margin-bottom: 1.25rem; }
+}
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.team-member {
+  padding: 1.25rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  h3 { font-size: 1.2rem; font-weight: 500; margin: 0 0 0.4rem; }
+  .member-meta { font-size: 0.85rem; margin-bottom: 0.85rem; }
+  .member-project { margin-bottom: 0; line-height: 1.5; }
+  .member-supervision { font-size: 0.8rem; margin: 0.85rem 0 0; }
+}
+@media (max-width: 575.98px) {
+  .team-grid { grid-template-columns: 1fr; }
+}
+
+// Compact former-member list.
+.former-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  > li { padding: 0.9rem 0; border-bottom: 1px solid var(--global-divider-color); }
+  > li:first-child { padding-top: 0; }
+  p { margin: 0.3rem 0 0; font-size: 0.9rem; line-height: 1.5; }
+}
+.former-person {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  column-gap: 1rem;
+  strong { font-size: 1rem; font-weight: 500; }
+}
+.former-dates { font-size: 0.85rem; white-space: nowrap; }
+
+.member-profile {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-size: 0.8rem;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.team-member .member-profile { margin-top: 0.85rem; }
+
+.former-list .member-affiliation { font-size: 0.8rem; }

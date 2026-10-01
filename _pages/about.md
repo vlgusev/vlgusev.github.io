@@ -1,20 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Lecturer in Computer Science
+subtitle: Senior Lecturer (Associate Professor)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <font size="2">
+    <div class="profile-address">
     <p>Room 3.14</p>
-    <p>Department of Computer Science,</p> 
-    <p>Ashton Building, Ashton Street,</p>
-    <p>Liverpool, L69 3BX, UK</p>
-    </font>
+    <p>Department of Computer Science</p>
+    <p>Ashton Building, Ashton Street</p>
+    <p>Liverpool L69 3BX, UK</p>
+    </div>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
