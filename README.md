@@ -101,8 +101,8 @@ is retained separately below the description.
 ## Research artwork
 
 The About footer artwork uses the owner-supplied `Nature_cover_landscape.jpg`, copied
-unchanged to `assets/img/research-landscape.jpg`. The banner loads responsive
-960px or 1920px WebP versions (quality 82), with lazy loading. Click the banner to
+unchanged to `assets/img/research-landscape.jpg`. The banner loads one full-resolution
+3840×2160 WebP version (quality 90) on all screens, with lazy loading. Click the banner to
 view the original full artwork. Its navy, cyan and magenta palette informs both colour themes;
 `_sass/_artwork.scss` controls the framing and fades. Social links sit above
 the artwork, which blends into the page background and copyright footer. Original references remain outside
