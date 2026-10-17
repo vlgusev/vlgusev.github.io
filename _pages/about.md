@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <div class="profile-address">
-    <p>Room 3.14</p>
-    <p>Department of Computer Science</p>
+    <p>Room 2.18</p>
+    <p>School of Computer Science and Informatics</p>
     <p>Ashton Building, Ashton Street</p>
     <p>Liverpool L69 3BX, UK</p>
     </div>
