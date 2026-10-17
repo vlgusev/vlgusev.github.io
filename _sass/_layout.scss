@@ -71,6 +71,7 @@ body.sticky-bottom-footer {
   gap: 1rem;
 }
 .team-member {
+  display: flow-root;
   padding: 1.25rem;
   border: 1px solid var(--global-divider-color);
   border-radius: 8px;
@@ -78,6 +79,14 @@ body.sticky-bottom-footer {
   .member-meta { font-size: 0.85rem; margin-bottom: 0.85rem; }
   .member-project { margin-bottom: 0; line-height: 1.5; }
   .member-supervision { font-size: 0.8rem; margin: 0.85rem 0 0; }
+  .member-photo {
+    float: right;
+    width: 88px;
+    height: 110px;
+    margin: 0 0 0.75rem 1rem;
+    border-radius: 6px;
+    object-fit: cover;
+  }
 }
 @media (max-width: 575.98px) {
   .team-grid { grid-template-columns: 1fr; }
